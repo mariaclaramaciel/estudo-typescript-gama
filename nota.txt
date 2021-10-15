@@ -1,0 +1,4 @@
+O typecript é como se fosse uma camada a mais para um projeto em js, potencializando a linaguagem
+Como js é uma linguagem fracamente tipada o typecript serve para adicionar uma tipagem 
+Entao eu escrevo o codigo em typecripst em seguida ocorre uma compilacao e um novo codigo em js é gerado
+o typescript nao roda no navegador, o Done é um programa que roda typscript

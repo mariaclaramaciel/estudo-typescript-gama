@@ -1,0 +1,1 @@
+//tipagem padrao atribuida a qualquer valor que nao tenha sido tipado
